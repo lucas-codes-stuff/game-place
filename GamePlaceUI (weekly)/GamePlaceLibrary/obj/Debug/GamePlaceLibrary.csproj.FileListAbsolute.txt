@@ -1,0 +1,11 @@
+C:\Users\Lucas Furlong\Desktop\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\bin\Debug\GamePlaceLibrary.dll
+C:\Users\Lucas Furlong\Desktop\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\bin\Debug\GamePlaceLibrary.pdb
+C:\Users\Lucas Furlong\Desktop\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\obj\Debug\GamePlaceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Furlong\Desktop\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\obj\Debug\GamePlaceLibrary.dll
+C:\Users\Lucas Furlong\Desktop\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\obj\Debug\GamePlaceLibrary.pdb
+C:\Users\Lucas Furlong\Desktop\School\CSCI234\GamePlace UI, Database, and Search\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\bin\Debug\GamePlaceLibrary.dll
+C:\Users\Lucas Furlong\Desktop\School\CSCI234\GamePlace UI, Database, and Search\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\bin\Debug\GamePlaceLibrary.pdb
+C:\Users\Lucas Furlong\Desktop\School\CSCI234\GamePlace UI, Database, and Search\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\obj\Debug\GamePlaceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Furlong\Desktop\School\CSCI234\GamePlace UI, Database, and Search\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\obj\Debug\GamePlaceLibrary.dll
+C:\Users\Lucas Furlong\Desktop\School\CSCI234\GamePlace UI, Database, and Search\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\obj\Debug\GamePlaceLibrary.pdb
+C:\Users\Lucas Furlong\Desktop\School\CSCI234\GamePlace UI, Database, and Search\GamePlaceUI (weekly)\GamePlaceUI (weekly)\GamePlaceLibrary\obj\Debug\GamePlaceLibrary.csproj.AssemblyReference.cache
